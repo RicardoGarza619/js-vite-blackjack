@@ -1,7 +1,7 @@
 /**
  * 
  * @param {string} carta 
- * @returns {number}
+ * @returns {numbergit }
  */
 
 export const valorCartas = (carta) => {
